@@ -156,7 +156,6 @@ The program should display employee records or the appropriate error message if 
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
 
 ---
-
 ## RESULT
 Thus, the program successfully executed and displayed employee details using a cursor. 
 
